@@ -9,7 +9,7 @@ In order to use the API or any of those apps, you need to actually connect the P
 You *will* void your mount's warranty if you use this, so this circuit schematic is provided WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL I BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE CIRCUIT.
 
-This is my Orion Starblast Autotracker, a very fine mount:
+This is my Orion Starblast Autotracker, a very fine mount (also sold as "Skywatcher Virtuoso"):
 ![alt text](https://raw.githubusercontent.com/vlaate/skywatcher-bluetooh/master/orion-autotracker.jpg "OrionStarblast Autotracker")
 
 And this is the cuircuit assembled:
