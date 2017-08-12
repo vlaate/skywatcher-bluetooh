@@ -6,7 +6,7 @@ Many have used this API to connect computers/tablets to their Skywatcher telesco
 
 In order to use the API or any of those apps, you need to actually connect the PC/tablet to your Skywatcher telescope, and that's where this little circuit comes in: it is a very simple connection for plugging a bluetooth serial adapter to the RX/TX pins of the Skywatcher Virtuoso mount (also known as Orion Starblast Autotracker).
 
-This is my Orion Starblast Autotracker, a very fine mount (also sold as "Skywatcher Virtuoso"):
+This is my Orion Starblast Autotracker, a very fine mount:
 ![alt text](https://raw.githubusercontent.com/vlaate/skywatcher-bluetooh/master/orion-autotracker.jpg "OrionStarblast Autotracker")
 
 And this is the cuircuit assembled:
