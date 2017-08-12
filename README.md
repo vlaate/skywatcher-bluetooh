@@ -26,4 +26,4 @@ The order of the RJ-11 pins from top to bottom corresponds to linear order of th
 
 Before building anything, measure the voltage between the VCC and GND pins to make sure you get *positive* 12V, in order to be certain that you have the correct pins for VCC and GND, and that you got the pin order right. If you get negative 12V, you probably have it in reverse order.
 
-This schematic is released under a MIT license.
+This schematic is released under an MIT license.
