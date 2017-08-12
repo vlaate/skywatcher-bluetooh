@@ -20,7 +20,7 @@ And the schematic for building it:
 
 The HC-05 bluetooth adapter that I used is [this one](https://www.aliexpress.com/item/Bluetooth-Module-HC-05-with-cable-Host-and-Slave-3-6-6V-for-Arduino-uno-by/762120245.html)
 
-Be careful with the resistors: they are only 100 ohms, so very small. The reason I recommend two in parallel for TX is to spread power dissipation. I don't recommend using a single 50 ohm ersistor here. 
+Be careful with the resistors: they are only 100 ohms, so very small. The reason I recommend two in parallel for TX is to spread power dissipation, at 12V it's safer with two 100 ohm than with a single 50 ohm resistor. 
 
 The order of the RJ-11 pins from top to bottom corresponds to linear order of the bare copper contacts in the actual connector (the ones that will touch the RJ11 cable), so make sure you get that order sorted out first (using a multimeter).
 
