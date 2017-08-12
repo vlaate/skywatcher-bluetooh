@@ -24,6 +24,6 @@ Be careful with the resistors: they are only 100 ohms, so very small. The reason
 
 The order of the RJ-11 pins from top to bottom corresponds to linear order of the bare copper contacts in the actual connector (the ones that will touch the RJ11 cable), so make sure you get that order sorted out first (using a multimeter).
 
-Before building anything, measure the voltage between the VCC and GND pins to make sure you get *positive* 12V, in order to be certain that you have the correct pins for VCC and GND, and you got the pin order right (if you get negative 12V, you probably have it in reverse order).
+Before building anything, measure the voltage between the VCC and GND pins to make sure you get *positive* 12V, in order to be certain that you have the correct pins for VCC and GND, and that you got the pin order right. If you get negative 12V, you probably have it in reverse order.
 
 This schematic is released under a MIT license.
