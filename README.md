@@ -6,9 +6,6 @@ Many have used this API to connect computers/tablets to their Skywatcher telesco
 
 In order to use the API or any of those apps, you need to actually connect the PC/tablet to your Skywatcher telescope, and that's where this little circuit comes in: it is a very simple connection for plugging a bluetooth serial adapter to the RX/TX pins of the Skywatcher Virtuoso mount (also known as Orion Starblast Autotracker).
 
-You *will* void your mount's warranty if you use this, so this circuit schematic is provided WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL I BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE CIRCUIT.
-
 This is my Orion Starblast Autotracker, a very fine mount (also sold as "Skywatcher Virtuoso"):
 ![alt text](https://raw.githubusercontent.com/vlaate/skywatcher-bluetooh/master/orion-autotracker.jpg "OrionStarblast Autotracker")
 
@@ -26,4 +23,4 @@ The order of the RJ-11 pins from top to bottom corresponds to linear order of th
 
 Before building anything, measure the voltage between the VCC and GND pins to make sure you get *positive* 12V, in order to be certain that you have the correct pins for VCC and GND, and that you got the pin order right. If you get negative 12V, you probably have it in reverse order.
 
-This schematic is released under an MIT license.
+This schematic is released under an MIT license. You *will* void your mount's warranty if you use this, so this circuit schematic is provided WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL I BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE CIRCUIT.
