@@ -22,7 +22,7 @@ The HC-05 bluetooth adapter that I used is [this one](https://www.aliexpress.com
 
 Be careful with the resistors: they are only 100 ohms, so very small. The reason I recommend two in parallel for TX is to spread power dissipation. I don't recommend using a single 50 ohm ersistor here. 
 
-The order of the RJ-11 pins from top to bottom corresponds to linear order of the bare copper contacts in the actual connector, so make sure you get that order sorted out first (using a multimeter), and before building anything, measure the voltage between the VCC and GND pins to make sure you get *positive* 12V, this way you can be sure you have the correct pins for VXX and GND and you got the order right (if you get negative 12V, you probably have it in reverse order).
+The order of the RJ-11 pins from top to bottom corresponds to linear order of the bare copper contacts in the actual connector (the ones that will touch the RJ11 cable), so make sure you get that order sorted out first (using a multimeter), and before building anything, measure the voltage between the VCC and GND pins to make sure you get *positive* 12V, this way you can be sure you have the correct pins for VXX and GND and you got the order right (if you get negative 12V, you probably have it in reverse order).
 
 This schematic is released under a MIT license.
 
